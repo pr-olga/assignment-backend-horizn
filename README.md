@@ -3,12 +3,12 @@
 Dear applicant,
 
 We're excited that you want to join the Horizn Studios team!
-We value and respect your time and that is why want to thank you that you are on this page
+We value and respect your time and that is why we want to thank you that you are on this page
 and are going to start this challenge!
 
-In this task, we do not expect from your the rocket science and/or anything special.
+In this task, we do not expect from you the rocket science and/or anything special.
 The main purpose is just to see how you think and what is your approach. At the end of the day,
-we expect from you a basic app structure and clean, maintainable and scalable code.
+we expect from you a basic well-structured app and clean, maintainable and scalable code.
 
 ## Challenge
 
