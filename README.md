@@ -19,7 +19,7 @@ in order to avoid the crowding and fast spreading of the infection. So each empl
 
 You as a backend developer have to deliver the basic logic for this app, which has the following **requirements**:
 
-1. The desks/rooms could be booked between 9a.m. - 5 p.m. from Mo till Fr (also on holidays).
+1. The desks/rooms could be booked between 9 a.m. - 5 p.m. from Mo till Fr (also on holidays).
 2. The desks/rooms could be booked many times on one day (i.e. X booked it from 9-12 a.m., Y booked it from 3-5 p.m.)
 3. An employee can book **one desk only** at the **certain time** 
 (i.e. it is impossible for one person to book two tables between 9 a.m. and 5 p.m. on the same day)
@@ -32,13 +32,13 @@ You as a backend developer have to deliver the basic logic for this app, which h
 1. Please do not spend that much time! We do not expect a production ready app, but we would appreciate if you will list
 some features in case it would be your main project and you would have a plenty of time.
 2. You can use any **PHP/JS** framework and/or library.
-2. You can deliver (i) frontend or (ii) do it as a console application or (iii) just program the basic logic and add some comments to it.
+3. You can deliver (i) frontend or (ii) do it as a console application or (iii) just program the basic logic and add some comments to it.
 All of these would be equally perfect!
-3. Tests are important, please write them if you have extra time (if not just add a short comment).
+4. Tests are important, please write them if you have extra time (if not just add a short comment).
 
 ## Your project
 1. Please provide the link to GitHub/GitLab/BitBucket repo.
 2. Please add the DB dump file to the same repo.
 
 
-We wish you good luck and hope that you will have a bit fun! ;-)
+We wish you good luck :rocket: and hope that you will have a bit of fun! :sunglasses:
