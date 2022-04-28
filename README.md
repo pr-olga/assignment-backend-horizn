@@ -32,7 +32,7 @@ You as a backend developer have to deliver the basic logic for this app, which h
 1. Please do not spend that much time! We do not expect a production ready app, but we would appreciate if you will list
 some features in case it would be your main project and you would have a plenty of time.
 2. You can use any **PHP/JS** framework and/or library.
-3. You can deliver (i) frontend or (ii) do it as a console application or (iii) just program the basic logic and add some comments to it.
+3. You can deliver (i) frontend or (ii) do it as a console application or (iii) deliver an API interface or (iv) just program the basic logic and **add comments** to it.
 All of these would be equally perfect!
 4. Tests are important, please write them if you have extra time (if not just add a short comment).
 
